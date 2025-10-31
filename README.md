@@ -4,6 +4,8 @@ Home Assistant add-on repository for AItomations Creator.
 
 [![Add Repository](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fglmatra%2Faitomation-install)
 
+The source to the Add-on is available in this [repo](https://github.com/gmatrangola/AItomation). Give it a ★
+
 ## Installation
 
 1. Click the button above or manually add this repository to your Home Assistant:
