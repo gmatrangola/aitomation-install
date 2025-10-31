@@ -1,0 +1,7 @@
+{
+  "name": "AItomations Add-ons",
+  "url": "https://github.com/glmatra/aitomation-install",
+  "maintainer": "Geoff Matrangola",
+  "description": "Create Home Assistant automations using natural language and AI",
+  "homepage": "https://github.com/gmatrangola/AItomation"
+}
